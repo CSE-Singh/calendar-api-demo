@@ -1,0 +1,24 @@
+{
+  "name": "calendar-api-demo",
+  "version": "1.0.0",
+  "description": "Simple repo to test out Calendarific API - https://calendarific.com/",
+  "main": "creds-gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSE-Singh/calendar-api-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSE-Singh/calendar-api-demo/issues"
+  },
+  "homepage": "https://github.com/CSE-Singh/calendar-api-demo#readme",
+  "dependencies": {
+    "date-and-time": "^0.14.2",
+    "postman-request": "^2.88.1-postman.28"
+  }
+}
