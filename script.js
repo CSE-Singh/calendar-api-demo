@@ -1,0 +1,2 @@
+
+const holidays = JSON.parse
